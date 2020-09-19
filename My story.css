@@ -1,0 +1,102 @@
+h1{
+    
+}
+
+.one{
+    font-size: 4.75mm;
+}
+
+
+.story{
+    width: 60rem;
+    height: 15rem;
+    margin-left: 20rem;
+    position: absolute;
+    top: 4.15rem;
+    border-style: solid;
+    border-color: black;
+}
+
+
+.social{
+        width: 15rem;
+        height: 6rem;
+        margin-left: 20rem;
+        position: absolute;
+        top: 20rem;
+        border-style: solid;
+        border-color: black;
+}
+
+
+.ed{
+    width: 18.5rem;
+    height: 19rem;
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+    top: 28rem;
+}
+
+.ac{
+    width: 18.5rem;
+    height: 19rem;
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+    top: 50rem;
+}
+
+
+.cps{
+    width: 3rem;
+    height: 3rem;
+}
+
+
+.nss{
+    width: 3rem;
+    height: 3rem;
+}
+
+
+.can{
+    width: 3rem;
+    height: 3rem;
+}
+
+
+
+
+button:hover{
+    height: 4rem;
+    width: 6rem;
+    background-color: lightgray;
+}
+
+.b1{
+    position: absolute;
+    left: 38rem;
+    top: 21rem;
+    color: purple;
+    font-size: 1rem;
+}
+
+.b2{
+    position: absolute;
+    left: 46rem;
+    top: 21rem;
+    color: purple;
+    font-size: 0.9rem;
+}
+
+
+
+button{
+    border-radius: 15px;
+    height: 4rem;
+    width: 6rem;
+    background-color: white;
+    border-color: white;
+    transition-duration: 0.4s
+}
